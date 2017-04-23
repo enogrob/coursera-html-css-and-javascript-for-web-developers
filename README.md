@@ -118,7 +118,6 @@ Introduction to Twitter Bootstrap
 [x] Practice Quiz: Optional Practice Quiz 4 questions
 [x] Frequently Asked Questions 10 min
 [x] Module 2 Wrap-Up 38 sec
-[ ] Peer-graded Assignment: Module 2 Coding Assignment 2h
-[ ] Due April 23, 11:59 PM PDT
-[ ] Review Your Peers: Module 2 Coding Assignment Due April 26, 11:59 PM PDT
+[x] Peer-graded Assignment: Module 2 Coding Assignment 2h Due April 23, 11:59 PM PDT
+[x] Review Your Peers: Module 2 Coding Assignment Due April 26, 11:59 PM PDT
 ```
