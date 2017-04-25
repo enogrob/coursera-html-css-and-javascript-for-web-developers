@@ -120,4 +120,50 @@ Introduction to Twitter Bootstrap
 [x] Module 2 Wrap-Up 38 sec
 [x] Peer-graded Assignment: Module 2 Coding Assignment 2h Due April 23, 11:59 PM PDT
 [x] Review Your Peers: Module 2 Coding Assignment Due April 26, 11:59 PM PDT
+
+WEEK3
+
+Coding the Static Restaurant Site
+Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together.
+Visit with the Client & Setup Overview
+[x] Welcome to Module 3: Coding the Static Restaurant Site 53 sec
+[x] Recommended Books 10 min
+[x] Lecture 27, Part 1: Visit with the Client 10 min
+[x] Lecture 27, Part 2: Visit with the Client (Field Trip) 9 min
+[x] ENTER RAFFLE (ends April 23rd, 2017) 10 min
+[x] Lecture 28: Design Overview 9 min
+[x] Lecture 29: Some Ground Rules and Overview of Setup 10 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
+
+Coding the Navigation Bar of the Site
+[ ] Lecture 30, Part 1: Coding Basics of Navbar Header 9 min
+[ ] Lecture 30, Part 2: Coding Basics of Navbar Header 7 min
+[ ] Practice Quiz: Optional Practice Quiz1 question
+[ ] Lecture 31: Coding Button for Future Collapsible Menu 6 min
+[ ] Practice Quiz: Optional Practice Quiz1 question
+[ ] Lecture 32, Part 1: Coding Nav Menu Buttons 11 min
+[ ] Lecture 32, Part 2: Coding Nav Menu Buttons 3 min
+[ ] Lecture 33, Part 1: Fixing Navbar Layout, Text, and Dropdown Menus 7 min
+[ ] Lecture 33, Part 2: Fixing Navbar Layout, Text, and Dropdown Menus 4 min
+
+Coding the Homepage and the Footer
+[ ] Lecture 34: Coding the Jumbotron 11 min
+[ ] Practice Quiz: Optional Practice Quiz1 question
+[ ] Lecture 35, Part 1: Coding Navigation Tiles 11 min
+[ ] Lecture 35, Part 2: Coding Navigation Tiles 13 min
+[ ] Lecture 36, Part 1: Coding the Footer 10 min
+[ ] Lecture 36, Part 2: Coding the Footer 3 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+
+Coding the Restaurant Menu Pages
+[ ] Lecture 37, Part 1: Coding the Menu Categories 14 min
+[ ] Lecture 37, Part 2: Coding the Menu Categories 6 min
+[ ] Lecture 38, Part 1: Coding the Single Menu Category Page 11 min
+[ ] Lecture 38, Part 2: Coding the Single Menu Category Page 13 min
+[ ] Lecture 38, Part 3: Coding the Single Menu Category Page 7 min
+[ ] Lecture 39: Testing the Mobile Version on a Real Phone 4 min
+[ ] Frequently Asked Questions 10 min
+[ ] Module 3 Wrap-Up 28 sec
+[ ] Peer-graded Assignment: Module 3 Coding Assignment 2h Due in 6 days
+[ ] Review Your Peers: Module 3 Coding Assignment Due in 9 days
 ```
