@@ -136,24 +136,24 @@ Visit with the Client & Setup Overview
 [x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Coding the Navigation Bar of the Site
-[ ] Lecture 30, Part 1: Coding Basics of Navbar Header 9 min
-[ ] Lecture 30, Part 2: Coding Basics of Navbar Header 7 min
-[ ] Practice Quiz: Optional Practice Quiz1 question
-[ ] Lecture 31: Coding Button for Future Collapsible Menu 6 min
-[ ] Practice Quiz: Optional Practice Quiz1 question
-[ ] Lecture 32, Part 1: Coding Nav Menu Buttons 11 min
-[ ] Lecture 32, Part 2: Coding Nav Menu Buttons 3 min
-[ ] Lecture 33, Part 1: Fixing Navbar Layout, Text, and Dropdown Menus 7 min
-[ ] Lecture 33, Part 2: Fixing Navbar Layout, Text, and Dropdown Menus 4 min
+[x] Lecture 30, Part 1: Coding Basics of Navbar Header 9 min
+[x] Lecture 30, Part 2: Coding Basics of Navbar Header 7 min
+[x] Practice Quiz: Optional Practice Quiz1 question
+[x] Lecture 31: Coding Button for Future Collapsible Menu 6 min
+[x] Practice Quiz: Optional Practice Quiz1 question
+[x] Lecture 32, Part 1: Coding Nav Menu Buttons 11 min
+[x] Lecture 32, Part 2: Coding Nav Menu Buttons 3 min
+[x] Lecture 33, Part 1: Fixing Navbar Layout, Text, and Dropdown Menus 7 min
+[x] Lecture 33, Part 2: Fixing Navbar Layout, Text, and Dropdown Menus 4 min
 
 Coding the Homepage and the Footer
-[ ] Lecture 34: Coding the Jumbotron 11 min
-[ ] Practice Quiz: Optional Practice Quiz1 question
-[ ] Lecture 35, Part 1: Coding Navigation Tiles 11 min
-[ ] Lecture 35, Part 2: Coding Navigation Tiles 13 min
-[ ] Lecture 36, Part 1: Coding the Footer 10 min
-[ ] Lecture 36, Part 2: Coding the Footer 3 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lecture 34: Coding the Jumbotron 11 min
+[x] Practice Quiz: Optional Practice Quiz1 question
+[x] Lecture 35, Part 1: Coding Navigation Tiles 11 min
+[x] Lecture 35, Part 2: Coding Navigation Tiles 13 min
+[x] Lecture 36, Part 1: Coding the Footer 10 min
+[x] Lecture 36, Part 2: Coding the Footer 3 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Coding the Restaurant Menu Pages
 [ ] Lecture 37, Part 1: Coding the Menu Categories 14 min
