@@ -156,14 +156,62 @@ Coding the Homepage and the Footer
 [x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Coding the Restaurant Menu Pages
-[ ] Lecture 37, Part 1: Coding the Menu Categories 14 min
-[ ] Lecture 37, Part 2: Coding the Menu Categories 6 min
-[ ] Lecture 38, Part 1: Coding the Single Menu Category Page 11 min
-[ ] Lecture 38, Part 2: Coding the Single Menu Category Page 13 min
-[ ] Lecture 38, Part 3: Coding the Single Menu Category Page 7 min
-[ ] Lecture 39: Testing the Mobile Version on a Real Phone 4 min
+[x] Lecture 37, Part 1: Coding the Menu Categories 14 min
+[x] Lecture 37, Part 2: Coding the Menu Categories 6 min
+[x] Lecture 38, Part 1: Coding the Single Menu Category Page 11 min
+[x] Lecture 38, Part 2: Coding the Single Menu Category Page 13 min
+[x] Lecture 38, Part 3: Coding the Single Menu Category Page 7 min
+[x] Lecture 39: Testing the Mobile Version on a Real Phone 4 min
+[x] Frequently Asked Questions 10 min
+[x] Module 3 Wrap-Up 28 sec
+[x] Peer-graded Assignment: Module 3 Coding Assignment 2h Due in 6 days
+[x] Review Your Peers: Module 3 Coding Assignment Due in 9 days
+
+WEEK 4
+
+Javascript Basics
+[x] Welcome to Module 4: Introduction to Javascript 1 min
+[x] Recommended Books 10 min
+[x] Lecture 40, Part 1: Adjusting Development Environment for Javascript Development 5 min
+[x] Lecture 40, Part 2: Where to Place Javascript Code 5 min
+[x] Lecture 41, Part 1: Defining Variables, Function, and Scope 8 min
+[x] Lecture 41, Part 2: Defining Variables, Function, and Scope 4 min
+[x] Practice Quiz: Optional Practice Quiz 3 questions
+
+Javascript Types and Common Language Constructs
+[ ] Lecture 42, Part 1: Javascript Types 5 min
+[ ] Lecture 42, Part 2: Javascript Types 4 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[ ] Lecture 43, Part 1: Common Language Constructs 8 min
+[ ] Lecture 43, Part 2: Common Language Constructs 4 min
+[ ] Lecture 43, Part 3: Common Language Constructs 7 min
+[ ] Lecture 44: Handling Default Values 4 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+
+Objects and Functions in Javascript
+[ ] Lecture 45, Part 1: Creating Objects Using 'new Object()' Syntax 7 min
+[ ] Lecture 45, Part 2: Creating Objects Using Object Literal Syntax 5 min
+[ ] Practice Quiz: Optional Practice Quiz 1 question
+[ ] Lecture 46: Functions Explained 8 min
+[ ] Practice Quiz: Optional Practice Quiz 1 question
+[ ] Lecture 47, Part 1: Passing Variables by Value vs. by Reference 6 min
+[ ] Lecture 47, Part 2: Passing Variables by Value vs. by Reference 7 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[ ] Lecture 48: Function Constructors, prototype, and the 'this' Keyword 12 min
+[ ] Lecture 49: Object Literals and the 'this' Keyword 6 min
+[ ] ENTER RAFFLE (ends April 23rd, 2017) 10 min
+[ ] Practice Quiz: Optional Practice Quiz 1 question
+
+Arrays, Closures, and Namespaces
+[ ] Lecture 50, Part 1: Arrays 8 min
+[ ] Lecture 50, Part 2: Arrays 4 min
+[ ] Practice Quiz: Optional Practice Quiz 1 question
+[ ] Lecture 51: Closures 6 min
+[ ] Lecture 52, Part 1: Fake Namespaces 6 min
+[ ] Lecture 52, Part 2: Immediately Invoked Function Expressions (IIFEs) 8 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
 [ ] Frequently Asked Questions 10 min
-[ ] Module 3 Wrap-Up 28 sec
-[ ] Peer-graded Assignment: Module 3 Coding Assignment 2h Due in 6 days
-[ ] Review Your Peers: Module 3 Coding Assignment Due in 9 days
+[ ] Module 4 Wrap-Up 44 sec
+[ ] Peer-graded Assignment: Module 4 Coding Assignment2h Due in 7 days
+[ ] Review Your Peers: Module 4 Coding Assignment Due in 10 days
 ```
