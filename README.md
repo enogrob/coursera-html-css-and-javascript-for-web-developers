@@ -189,18 +189,18 @@ Javascript Types and Common Language Constructs
 [x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Objects and Functions in Javascript
-[ ] Lecture 45, Part 1: Creating Objects Using 'new Object()' Syntax 7 min
-[ ] Lecture 45, Part 2: Creating Objects Using Object Literal Syntax 5 min
-[ ] Practice Quiz: Optional Practice Quiz 1 question
-[ ] Lecture 46: Functions Explained 8 min
-[ ] Practice Quiz: Optional Practice Quiz 1 question
-[ ] Lecture 47, Part 1: Passing Variables by Value vs. by Reference 6 min
-[ ] Lecture 47, Part 2: Passing Variables by Value vs. by Reference 7 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
-[ ] Lecture 48: Function Constructors, prototype, and the 'this' Keyword 12 min
-[ ] Lecture 49: Object Literals and the 'this' Keyword 6 min
-[ ] ENTER RAFFLE (ends April 23rd, 2017) 10 min
-[ ] Practice Quiz: Optional Practice Quiz 1 question
+[x] Lecture 45, Part 1: Creating Objects Using 'new Object()' Syntax 7 min
+[x] Lecture 45, Part 2: Creating Objects Using Object Literal Syntax 5 min
+[x] Practice Quiz: Optional Practice Quiz 1 question
+[x] Lecture 46: Functions Explained 8 min
+[x] Practice Quiz: Optional Practice Quiz 1 question
+[x] Lecture 47, Part 1: Passing Variables by Value vs. by Reference 6 min
+[x] Lecture 47, Part 2: Passing Variables by Value vs. by Reference 7 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lecture 48: Function Constructors, prototype, and the 'this' Keyword 12 min
+[x] Lecture 49: Object Literals and the 'this' Keyword 6 min
+[x] ENTER RAFFLE (ends April 23rd, 2017) 10 min
+[x] Practice Quiz: Optional Practice Quiz 1 question
 
 Arrays, Closures, and Namespaces
 [ ] Lecture 50, Part 1: Arrays 8 min
