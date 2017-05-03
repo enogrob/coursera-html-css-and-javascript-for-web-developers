@@ -179,14 +179,14 @@ Javascript Basics
 [x] Practice Quiz: Optional Practice Quiz 3 questions
 
 Javascript Types and Common Language Constructs
-[ ] Lecture 42, Part 1: Javascript Types 5 min
-[ ] Lecture 42, Part 2: Javascript Types 4 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
-[ ] Lecture 43, Part 1: Common Language Constructs 8 min
-[ ] Lecture 43, Part 2: Common Language Constructs 4 min
-[ ] Lecture 43, Part 3: Common Language Constructs 7 min
-[ ] Lecture 44: Handling Default Values 4 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lecture 42, Part 1: Javascript Types 5 min
+[x] Lecture 42, Part 2: Javascript Types 4 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lecture 43, Part 1: Common Language Constructs 8 min
+[x] Lecture 43, Part 2: Common Language Constructs 4 min
+[x] Lecture 43, Part 3: Common Language Constructs 7 min
+[x] Lecture 44: Handling Default Values 4 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Objects and Functions in Javascript
 [ ] Lecture 45, Part 1: Creating Objects Using 'new Object()' Syntax 7 min
