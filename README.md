@@ -203,15 +203,15 @@ Objects and Functions in Javascript
 [x] Practice Quiz: Optional Practice Quiz 1 question
 
 Arrays, Closures, and Namespaces
-[ ] Lecture 50, Part 1: Arrays 8 min
-[ ] Lecture 50, Part 2: Arrays 4 min
-[ ] Practice Quiz: Optional Practice Quiz 1 question
-[ ] Lecture 51: Closures 6 min
-[ ] Lecture 52, Part 1: Fake Namespaces 6 min
-[ ] Lecture 52, Part 2: Immediately Invoked Function Expressions (IIFEs) 8 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
-[ ] Frequently Asked Questions 10 min
-[ ] Module 4 Wrap-Up 44 sec
+[x] Lecture 50, Part 1: Arrays 8 min
+[x] Lecture 50, Part 2: Arrays 4 min
+[x] Practice Quiz: Optional Practice Quiz 1 question
+[x] Lecture 51: Closures 6 min
+[x] Lecture 52, Part 1: Fake Namespaces 6 min
+[x] Lecture 52, Part 2: Immediately Invoked Function Expressions (IIFEs) 8 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Frequently Asked Questions 10 min
+[x] Module 4 Wrap-Up 44 sec
 [ ] Peer-graded Assignment: Module 4 Coding Assignment2h Due in 7 days
 [ ] Review Your Peers: Module 4 Coding Assignment Due in 10 days
 ```
