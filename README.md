@@ -214,4 +214,39 @@ Arrays, Closures, and Namespaces
 [x] Module 4 Wrap-Up 44 sec
 [ ] Peer-graded Assignment: Module 4 Coding Assignment2h Due in 7 days
 [ ] Review Your Peers: Module 4 Coding Assignment Due in 10 days
+
+WEEK5
+
+Document Object Model Manipulation
+[x] Welcome to Module 5: Using Javascript to Build Web Applications 47 sec
+[x] Recommended Books 10 min
+[x] Lecture 53, Part 1: DOM Manipulation 6 min
+[x] Lecture 53, Part 2: DOM Manipulation 11 min
+[x] Lecture 54: Handling Events 9 min
+[x] Lecture 55: The 'event' Argument 6 min
+[x] Stay In Touch! 10 min
+[x] Practice Quiz: Optional Practice Quiz2 questions
+
+Introduction to Ajax
+[ ] Lesson 56: HTTP Basics 12 min
+[ ] Lesson 57, Part 1: Ajax Basics 5 min
+[ ] Lesson 57, Part 2: Ajax Basics 13 min
+[ ] Lesson 57, Part 3: Ajax Basics 6 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[ ] Lecture 58: Processing JSON 9 min
+[ ] Practice Quiz: Optional Practice Quiz 2 questions
+
+Using Ajax to Connect Restaurant Site with Real Data
+[ ] Lecture 59: Fixing Mobile Nav Menu Automatic Collapse 6 min
+[ ] Lecture 60: Dynamically Loading Home View Content 9 min
+[ ] Lecture 61, Part 1: Dynamically Loading Menu Categories View 6 min
+[ ] Lecture 61, Part 2: Dynamically Loading Menu Categories View 10 min
+[ ] Lecture 62: Dynamically Loading Single Category View 13 min
+[ ] Lecture 63: Changing 'active' Button Style Through Javascript 6 min
+[ ] Check out the final deployed site 10 min
+[ ] Frequently Asked Questions 10 min
+[ ] ENTER RAFFLE (ends April 23rd, 2017) 10 min
+[ ] Course Wrap-Up 1 min
+[ ] Peer-graded Assignment: Module 5 Coding Assignment2h Due in 7 days
+[ ] Review Your Peers: Module 5 Coding Assignment Due in 10 days
 ```
