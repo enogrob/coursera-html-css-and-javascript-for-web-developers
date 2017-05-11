@@ -212,8 +212,8 @@ Arrays, Closures, and Namespaces
 [x] Practice Quiz: Optional Practice Quiz 2 questions
 [x] Frequently Asked Questions 10 min
 [x] Module 4 Wrap-Up 44 sec
-[ ] Peer-graded Assignment: Module 4 Coding Assignment2h Due in 7 days
-[ ] Review Your Peers: Module 4 Coding Assignment Due in 10 days
+[x] Peer-graded Assignment: Module 4 Coding Assignment2h Due in 7 days
+[x] Review Your Peers: Module 4 Coding Assignment Due in 10 days
 
 WEEK5
 
@@ -228,13 +228,13 @@ Document Object Model Manipulation
 [x] Practice Quiz: Optional Practice Quiz2 questions
 
 Introduction to Ajax
-[ ] Lesson 56: HTTP Basics 12 min
-[ ] Lesson 57, Part 1: Ajax Basics 5 min
-[ ] Lesson 57, Part 2: Ajax Basics 13 min
-[ ] Lesson 57, Part 3: Ajax Basics 6 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
-[ ] Lecture 58: Processing JSON 9 min
-[ ] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lesson 56: HTTP Basics 12 min
+[x] Lesson 57, Part 1: Ajax Basics 5 min
+[x] Lesson 57, Part 2: Ajax Basics 13 min
+[x] Lesson 57, Part 3: Ajax Basics 6 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
+[x] Lecture 58: Processing JSON 9 min
+[x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Using Ajax to Connect Restaurant Site with Real Data
 [ ] Lecture 59: Fixing Mobile Nav Menu Automatic Collapse 6 min
