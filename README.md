@@ -237,16 +237,16 @@ Introduction to Ajax
 [x] Practice Quiz: Optional Practice Quiz 2 questions
 
 Using Ajax to Connect Restaurant Site with Real Data
-[ ] Lecture 59: Fixing Mobile Nav Menu Automatic Collapse 6 min
-[ ] Lecture 60: Dynamically Loading Home View Content 9 min
-[ ] Lecture 61, Part 1: Dynamically Loading Menu Categories View 6 min
-[ ] Lecture 61, Part 2: Dynamically Loading Menu Categories View 10 min
-[ ] Lecture 62: Dynamically Loading Single Category View 13 min
-[ ] Lecture 63: Changing 'active' Button Style Through Javascript 6 min
-[ ] Check out the final deployed site 10 min
-[ ] Frequently Asked Questions 10 min
-[ ] ENTER RAFFLE (ends April 23rd, 2017) 10 min
-[ ] Course Wrap-Up 1 min
-[ ] Peer-graded Assignment: Module 5 Coding Assignment2h Due in 7 days
-[ ] Review Your Peers: Module 5 Coding Assignment Due in 10 days
+[x] Lecture 59: Fixing Mobile Nav Menu Automatic Collapse 6 min
+[x] Lecture 60: Dynamically Loading Home View Content 9 min
+[x] Lecture 61, Part 1: Dynamically Loading Menu Categories View 6 min
+[x] Lecture 61, Part 2: Dynamically Loading Menu Categories View 10 min
+[x] Lecture 62: Dynamically Loading Single Category View 13 min
+[x] Lecture 63: Changing 'active' Button Style Through Javascript 6 min
+[x] Check out the final deployed site 10 min
+[x] Frequently Asked Questions 10 min
+[x] ENTER RAFFLE (ends April 23rd, 2017) 10 min
+[x] Course Wrap-Up 1 min
+[x] Peer-graded Assignment: Module 5 Coding Assignment2h Due in 7 days
+[x] Review Your Peers: Module 5 Coding Assignment Due in 10 days
 ```
